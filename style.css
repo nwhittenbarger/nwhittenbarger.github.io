@@ -29,13 +29,14 @@ footer {
     text-align: center;
 }
 
-em{
+em {
+    justify-content: center; 
+    object-position: center;
     color: #333;
     font-style: normal;
     text-align: center;
     margin: 0;
     padding: 0;
     width: 100%;
-    justify-content: center; 
-    object-position: center;
+    
 }
